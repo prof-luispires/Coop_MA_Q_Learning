@@ -1,4 +1,4 @@
-# CF-MAQL: Cooperative Multi-Agent Q-Learning for Robust Intrusion De-tection in Heterogeneous IoT Network Flows
+# CF-MAQL: Cooperative Flow Multi-Agent Contextual Q-Learning for Robust Intrusion Detection in Heterogeneous IoT Networks
 
 This repository contains the implementation and experimental outputs used to evaluate **CF-MAQL**, a cooperative multi-agent Q-learning framework for intrusion detection in heterogeneous IoT network flows.
 
